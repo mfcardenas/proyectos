@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/Java SE 6 (MacOS X Default)"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ArkException"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-digester.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-discovery.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-fileupload.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-pool.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/commons-validator.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/ibatis-2.3.0.677.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/mail.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/serializer.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/spring.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/struts.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/xalan.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/librerias/lib/xsltc.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

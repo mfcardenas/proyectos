@@ -1,0 +1,9 @@
+- Añadir la clase Encrypt
+- Modificación de la clase ReadProperties. Utilización de java:comp/env
+- Modificación del componente de Anexo
+- Modificación de la paginación simple para poder introducir varios grid con 
+paginación en una unica pagina
+- Grid ordenables
+- Paginación a ultimo y primero
+- Cuando no hay elementos en el grid, cambiar el literal de paginación para que 
+muestre 0 - 0 / 0

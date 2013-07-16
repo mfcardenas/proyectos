@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: 1.4 (Sun Microsystems Inc.)
+
+Name: es/ark/arq/
+Implementation-Vendor: "ARK"
+Implementation-Title: ARKDAO
+Implementation-Version: 2.0
+

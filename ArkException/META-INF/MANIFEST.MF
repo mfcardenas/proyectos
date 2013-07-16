@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Version: 1.0
+Specification-Title: ARK Excepton
+Implementation-Version: 1.0
+Implementation-Title: ARK Excepton
+Extension-Name: ARK Excepton
+Implementation-Vendor-Id: es.ark
+Implementation-Vendor: Arquitectura ARK
+Specification-Vendor: Arquitectura ARK
+
